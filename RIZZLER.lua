@@ -1,4 +1,4 @@
--- credits to vadrifts, sorry i had to bc yours wont work!!
+-- credits to vadrifts + chat gpt
 return {
 	"If i were dared to shout the world how much i lꚛve you, I would simply whisper it to your ears.", -- 1
         "If look could kill i would be dead for it's not your looks that would kill me, for it's the un-describable beauty you hold within.", -- 2
@@ -22,7 +22,7 @@ return {
         "If love is like flying, then being with you is like soaring high above the clouds, with nothing but the blue sky and endless possibilities ahead.", -- 19
         "I don't need wings to fly, because your smile is enough to lift me up and take me to places I've never been before.", -- 20
         "They say love is a journey, and if that's true, then being with you is like taking a first-class flight to paradise, with every moment feeling like a dream come true.", -- 21
-	    "If heaven is as beautiful as you, then I'm ready to leave this world and spend an eternity with you among the clouds, basking in the radiance of your grace.", -- 22
+	"If heaven is as beautiful as you, then I'm ready to leave this world and spend an eternity with you among the clouds, basking in the radiance of your grace.", -- 22
         "They say heaven is a place on earth, and if that's true, then being with you is like being in paradise, with every moment feeling like a dream come true.", --23
         "If I could have one wish, it would be to spend an eternity in your embrace, gazing upon the majesty of heaven and knowing that we'll always have each other to share in its splendor.", -- 24
         "They say that time is fleeting, but with you, every moment feels like an eternity of bliss, where the past and future fade away, and all that matters is the present, spent in the arms of the one I love for all eternity.", -- 25
